@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eqalu</h1>
+<h1 align="center">Hi 👋, I'm ACT!</h1>
 <h3 align="center">A game developer!</h3>
 
 <p align="left"> <a href="https://twitter.com/eqaluu" target="blank"><img src="https://img.shields.io/twitter/follow/eqaluu?logo=twitter&style=for-the-badge" alt="eqaluu" /></a> </p>
